@@ -1,5 +1,5 @@
 package projPart1;
-/* Merhaba */
+/* Merhabaxd */
 import java.util.ArrayList;
 
 public class Course {
